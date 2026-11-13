@@ -1,6 +1,6 @@
-# BETAFPV AI · YOLO26 ONNX 模型
+# YOLO26 ONNX 模型
 
-本仓库用于分发 BETAFPV AI 桌面版的 GPU 推理模型。桌面端会按所选档位下载模型并校验 SHA-256。手动下载时，选择共用的人脸模型和对应档位的行人检测、深度模型。[下载 ONNX 模型](https://github.com/sfykuer/yolo/releases/tag/models-onnx-v1)
+本仓库用于分发桌面版的 GPU 推理模型。桌面端会按所选档位下载模型并校验 SHA-256。手动下载时，选择共用的人脸模型和对应档位的行人检测、深度模型。[下载 ONNX 模型](https://github.com/sfykuer/yolo/releases/tag/models-onnx-v1)
 
 | 档位 | 含共用人脸模型的下载量 |
 | --- | --- |
